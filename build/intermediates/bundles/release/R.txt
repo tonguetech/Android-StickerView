@@ -1,0 +1,4 @@
+int drawable flip 0x7f020000
+int drawable remove 0x7f020001
+int drawable zoominout 0x7f020002
+int string app_name 0x7f030000
