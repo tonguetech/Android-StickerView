@@ -3,6 +3,8 @@
 ## Description
 StickerView is a android UI library that make you able to use
 Single hand gesture to rotate, scale and flip the ‘sticker’.
+
+
 ![alt tag](/demo.gif)
 
 
