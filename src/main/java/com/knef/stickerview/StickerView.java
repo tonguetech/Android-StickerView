@@ -371,4 +371,19 @@ public abstract class StickerView extends FrameLayout{
         float px = dp * (metrics.densityDpi / 160f);
         return (int)px;
     }
+
+    public void setControlsVisibility(boolean isVisible) {
+        if(!isVisible) {
+            iv_border.setVisibility(View.GONE);
+            iv_delete.setVisibility(View.GONE);
+            iv_flip.setVisibility(View.GONE);
+            iv_scale.setVisibility(View.GONE);
+        }else{
+            iv_border.setVisibility(View.VISIBLE);
+            iv_delete.setVisibility(View.VISIBLE);
+            iv_flip.setVisibility(View.VISIBLE);
+            iv_scale.setVisibility(View.VISIBLE);
+        }
+
+    }
 }
