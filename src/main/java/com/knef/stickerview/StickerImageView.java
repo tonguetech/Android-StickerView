@@ -14,6 +14,13 @@ public class StickerImageView extends StickerView {
 
     private String owner_id;
     private ImageView iv_main;
+
+    @Override
+    protected void updateXY() {}
+
+    @Override
+    protected void updateSize() {}
+
     public StickerImageView(Context context) {
         super(context);
     }
