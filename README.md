@@ -49,3 +49,4 @@ private IStickerOperation stickerOperation=new IStickerOperation() {
         }
     };
 ```
+Orignal GifView Repository : https://github.com/Cutta/GifView
