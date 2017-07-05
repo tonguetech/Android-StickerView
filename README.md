@@ -27,4 +27,25 @@ canvas.adView(iv_sticker);
 StickerTextView tv_sticker = new StickerTextView(getContext());
 tv_sticker.setText(“call me baby”);
 canvas.addView(tv_sticker);
+
+// add a stickerText to canvas
+StickerGifView gifSticker = new StickerGifView(this);
+gifSticker.setGifPath(stkrName);
+String tag = String.valueOf(<tag> + 1);
+gifSticker.setStickerTag(tag);
+gifSticker.setOnSelectListener(stickerOperation);
+canvas.addView(gifSticker);
+
+//Sticker Listener
+private IStickerOperation stickerOperation=new IStickerOperation() {
+        @Override
+        public void onSelect(@NotNull String tag) {
+      
+        }
+
+        @Override
+        public void onDelete(@NotNull String tag) {
+      
+        }
+    };
 ```
