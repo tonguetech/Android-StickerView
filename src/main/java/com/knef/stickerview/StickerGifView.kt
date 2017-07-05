@@ -9,7 +9,7 @@ import com.knef.stickerview.util.GifView
 
 /**
  * Created by dastaniqbal on 03/07/2017.
- * dastanIqbal@marvelmedia.com
+ * ask2iqbal@gmail.com
  * 03/07/2017 3:33
  */
 

@@ -17,6 +17,7 @@ import java.io.FileNotFoundException;
 
 /**
  * Created by Cuneyt on 4.10.2015.
+ * original source code https://github.com/Cutta/GifView
  * Gifview
  */
 public class GifView extends View implements View.OnTouchListener {

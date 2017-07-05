@@ -5,7 +5,7 @@ import java.util.*
 
 /**
  * Created by dastaniqbal on 04/07/2017.
- * dastanIqbal@marvelmedia.com
+ * ask2iqbal@gmail.com
  * 04/07/2017 4:49
  */
 
