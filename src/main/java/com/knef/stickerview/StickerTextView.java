@@ -16,6 +16,13 @@ import com.knef.stickerview.util.AutoResizeTextView;
  */
 public class StickerTextView extends StickerView{
     private AutoResizeTextView tv_main;
+
+    @Override
+    protected void updateXY() {}
+
+    @Override
+    protected void updateSize() {}
+
     public StickerTextView(Context context) {
         super(context);
     }
