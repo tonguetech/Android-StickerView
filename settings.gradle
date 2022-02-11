@@ -1,0 +1,2 @@
+rootProject.name = "Android-StickerView"
+include ':stickerview'

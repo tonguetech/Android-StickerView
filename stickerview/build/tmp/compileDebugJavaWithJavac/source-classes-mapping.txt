@@ -1,0 +1,18 @@
+com/knef/stickerview/BuildConfig.java
+ com.knef.stickerview.BuildConfig
+com/knef/stickerview/util/GifView.java
+ com.knef.stickerview.util.GifView
+com/knef/stickerview/StickerView.java
+ com.knef.stickerview.StickerView
+ com.knef.stickerview.StickerView$1
+ com.knef.stickerview.StickerView$2
+ com.knef.stickerview.StickerView$3
+ com.knef.stickerview.StickerView$BorderView
+com/knef/stickerview/util/AutoResizeTextView.java
+ com.knef.stickerview.util.AutoResizeTextView
+ com.knef.stickerview.util.AutoResizeTextView$1
+ com.knef.stickerview.util.AutoResizeTextView$SizeTester
+com/knef/stickerview/StickerImageView.java
+ com.knef.stickerview.StickerImageView
+com/knef/stickerview/StickerTextView.java
+ com.knef.stickerview.StickerTextView

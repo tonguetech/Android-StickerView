@@ -1,0 +1,14 @@
+int attr gif 0x0
+int attr gifViewStyle 0x0
+int attr paused 0x0
+int drawable flip 0x0
+int drawable remove 0x0
+int drawable zoominout 0x0
+int id sticker_tag 0x0
+int string app_name 0x0
+int style Widget_GifView 0x0
+int[] styleable CustomTheme { 0x0 }
+int styleable CustomTheme_gifViewStyle 0
+int[] styleable GifView { 0x0, 0x0 }
+int styleable GifView_gif 0
+int styleable GifView_paused 1

@@ -1,0 +1,12 @@
+com.knef.stickerview
+attr gif
+attr gifViewStyle
+attr paused
+drawable flip
+drawable remove
+drawable zoominout
+id sticker_tag
+string app_name
+style Widget_GifView
+styleable CustomTheme gifViewStyle
+styleable GifView gif paused
